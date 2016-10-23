@@ -1,0 +1,29 @@
+"使用Mapreduce将日志文件导入hbase中"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   HbaseImport/.classpath
+#	new file:   HbaseImport/.project
+#	new file:   HbaseImport/.settings/org.eclipse.jdt.core.prefs
+#	new file:   HbaseImport/.settings/org.eclipse.m2e.core.prefs
+#	new file:   HbaseImport/pom.xml
+#	new file:   HbaseImport/src/main/java/com/xfyan/hbase/ImportHbase.java
+#	new file:   HbaseImport/src/main/java/com/xfyan/hbase/OutPartUrl.java
+#	new file:   HbaseImport/src/main/java/com/xfyan/hbase/OutUrl.java
+#	new file:   HbaseImport/src/main/java/com/xfyan/hbase/Test.java
+#	new file:   HbaseImport/src/main/java/com/xfyan/hbase/UrlTotalNum.java
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/ImportHbase$Import2HbaseReducer.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/ImportHbase$myMapper.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/ImportHbase.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/OutPartUrl.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/OutUrl.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/Test.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/UrlTotalNum$myMapper.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/UrlTotalNum$myReducer.class
+#	new file:   HbaseImport/target/classes/com/xfyan/hbase/UrlTotalNum.class
+#
