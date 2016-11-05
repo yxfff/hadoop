@@ -12,7 +12,9 @@ while true;do
 			echo ${#array[@]}
 			echo "loading hive..."
 		else
-			cd /data/LogProject/Hdfs2Hive && sh loadhive.sh $input_dir $table
+			cd /data/search-query/Hdfs2Hive && sh load-to-hive.sh $input_dir $table
+			
+				
 			sleep 100
 		fi
 	else

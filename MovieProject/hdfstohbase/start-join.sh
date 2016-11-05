@@ -1,0 +1,1 @@
+hadoop jar /data/MovieProject/hdfstohbase/MovieLoadHbase/target/MovieLoadHbase-0.0.1-SNAPSHOT.jar com.xfyan.join.Join  /movie/source/users.dat /movie/source/ratings.dat /movie/source/movies.dat /movie/join/
